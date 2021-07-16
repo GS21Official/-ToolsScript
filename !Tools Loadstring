@@ -1,0 +1,43 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/-ToolsScript/main/!Tools%20script%20page'))() 
+--[[
+Tools made by GS21#0001
+Commands:
+[+]!serverhop
+[+]!rejoin
+[+]!afk -- anti afk kick
+[+]!dp -- Shows Display Names and Real Names
+[+]!lowgfx -- Lower GFX = More FPS
+[+]!sv -- (Tells you when server is about to crash or is loosing conection)
+[+]!!fly (Be careful this can ban you on games with antifly)")
+[+]!noclip (Be careful with this on games with Anti-Noclip, toggle noclip with Z)
+[+]!clicktp (Becareful this can ban you on games with Anti-Tp)
+[+]!mask (To Hide name on the game DaHood)
+[+]!jt (To remove jail time on DaHood)
+[+]!crash (For DAHOOD ONLY)
+
+------------------Integrated|Autoexcuted------------------
+[Integrated] Chat Spy integrated when !Tools are executed
+
+------------------New Teleports------------------
+[+]!bank (Bank Outside)
+[+]!hospital
+[+]!gym
+[+]!guns1 (Gunshop Up)
+[+]!guns2 (Gunshop Down)
+[+]!taco (Inside Taco)
+[+]!police (Inside Police Base)
+[+]!jail (Inside Jail)
+[+]!casino (To casino)
+[+]!ufo (To the Alien UFO)
+[+]!gas (To Gas Station)
+[+]!church (Out of Church)
+[+]!park (Takes to tha playground park)
+[+]!box (Takes you outside Boxing Place)
+[+]!hg (To HighSchool)
+[+]!canal (Tp to the new Canal)
+[+]!ad (Tp to Admin-Base
+[+]!bar (To the bar)
+
+
+
+]]
