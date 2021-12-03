@@ -18,12 +18,16 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/-ToolsSc
         [+]!clicktp (Becareful this can ban you on games with Anti-Tp)
         [+]!goto [player] (Tp's you to the selected player)
         [+]!crash (For DAHOOD ONLY)
-        [+]!autodrop (For DAHOOD ONLY) This autodrops dahood cash [Yes it can be toggle :)]
+        [+]!autodrop (For DAHOOD ONLY) This autodrops dahood cash [ Yes it can be toggle :) ]
+        [+]!cashaura (For DAHOOD ONLY) This autograbs dahood cash [ Yes it can be toggle :) ]
+        [+]!uncashaura (For DAHOOD ONLY) This DISABLES !cashaura
+        [+]!unjail (For DAHOOD ONLY) 
 
         ------------------Integrated|Autoexcuted------------------
+
         [Integrated] Chat Spy integrated when !Tools are executed
 
-        ------------------New Teleports------------------
+        ------------------DaHood Teleports------------------
         [+]!bank (Bank Outside)
         [+]!hospital
         [+]!gym
